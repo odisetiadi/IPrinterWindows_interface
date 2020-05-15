@@ -1,0 +1,13 @@
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\bin\Debug\netcoreapp3.1\Polymorphism(2).exe
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\bin\Debug\netcoreapp3.1\Polymorphism(2).deps.json
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\bin\Debug\netcoreapp3.1\Polymorphism(2).runtimeconfig.json
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\bin\Debug\netcoreapp3.1\Polymorphism(2).runtimeconfig.dev.json
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\bin\Debug\netcoreapp3.1\Polymorphism(2).dll
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\bin\Debug\netcoreapp3.1\Polymorphism(2).pdb
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\obj\Debug\netcoreapp3.1\Polymorphism(2).csprojAssemblyReference.cache
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\obj\Debug\netcoreapp3.1\Polymorphism(2).csproj.CoreCompileInputs.cache
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\obj\Debug\netcoreapp3.1\Polymorphism(2).AssemblyInfoInputs.cache
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\obj\Debug\netcoreapp3.1\Polymorphism(2).AssemblyInfo.cs
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\obj\Debug\netcoreapp3.1\Polymorphism(2).dll
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\obj\Debug\netcoreapp3.1\Polymorphism(2).pdb
+C:\Users\odi setiadi\source\repos\Polymorphism(2)\Polymorphism(2)\obj\Debug\netcoreapp3.1\Polymorphism(2).genruntimeconfig.cache
